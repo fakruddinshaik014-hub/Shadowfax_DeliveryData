@@ -1,2 +1,4 @@
-# Shadowfax_DeliveryData
-I developed a Shadowfax Delivery project in using Excel, Python Library creating multiple dashboard and tables to analyze the data. This process involved several stages,including data preprocessing data cleaning,and data visualization.
+## Shadowfax Delivery Data Analysis 📦🚚
+# 1. Project Objective
+The objective of this project is to analyze delivery logistics data to understand delivery performance, package handling, and operational efficiency.
+Using data analysis techniques, the project identifies patterns in delivery time, distance, vehicle usage, and package types to gain insights that can help improve logistics operations.
