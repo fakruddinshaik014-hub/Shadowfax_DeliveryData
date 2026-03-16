@@ -51,3 +51,18 @@ Vehicle type usage in deliveries
 Delivery performance across regions
 Effect of weather conditions on delivery efficiency
 
+-  <a href ="https://github.com/fakruddinshaik014-hub/Shadowfax_DeliveryData/blob/main/Screenshot%202026-03-15%20092156.png"> analysis </a>
+<a href = "https://github.com/fakruddinshaik014-hub/Shadowfax_DeliveryData/blob/main/Screenshot%202026-03-15%20092205.png"></a>
+<a href = "https://github.com/fakruddinshaik014-hub/Shadowfax_DeliveryData/blob/main/Screenshot%202026-03-15%20092257.png"></a>
+
+## 6. Data Visualization 📊
+Charts were created using Excel Pivot Tables and Matplotlib to visualize:
+Delivery partner distribution
+Package type frequency
+Vehicle type usage
+Distance vs delivery time
+Region-wise delivery performance
+These visualizations help identify patterns and operational bottlenecks
+
+
+
